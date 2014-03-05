@@ -3,3 +3,7 @@
 h1 {
 	font-weight:700;
 }
+
+body {
+	max-width:570px;
+}
